@@ -1,0 +1,63 @@
+/*=============================================
+  ____  _____ _______        _     _           
+ |  _ \|  __ \__   __|      | |   (_)          
+ | |_) | |  | | | | ___  ___| |__  _  ___  ___ 
+ |  _ <| |  | | | |/ _ \/ __| '_ \| |/ _ \/ __|
+ | |_) | |__| | | |  __/ (__| | | | |  __/\__ \
+ |____/|_____/  |_|\___|\___|_| |_|_|\___||___/
+ 
+ !------- We Convert IDEAS into REALITY ------!
+
+ =============================================*/
+
+@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
+@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
+@import url('http://amarbornomala.org/webfont/?family=ABShaplaBeta');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+body {
+    font-size: 2em;
+    line-height: 1.5em;
+    text-align: justify;
+    color: #22313F;
+    background: #ECF0F1;
+    font-family: 'ABShaplaBeta', Philosopher, sans-serif;
+}
+
+.main {
+    margin-top: 2em;
+}
+
+.single {
+    margin-top: 2em;
+    padding: 2em;
+    -webkit-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.6);
+    box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.6);
+}
+
+.single:last-child {
+    margin-bottom: 2em;
+}
+
+.charu-chandan {
+    font-family: 'Charu Chandan Unicode';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.charukola {
+    font-family: 'Charukola Unicode';
+    font-weight: normal;
+    font-style: normal;
+}
