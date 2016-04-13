@@ -12,7 +12,7 @@
 
 @import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
 @import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
-@import url('http://amarbornomala.org/webfont/?family=ABShaplaBeta');
+@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/solaimanlipi/stylesheet.css');
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
@@ -34,7 +34,7 @@ body {
     text-align: justify;
     color: #22313F;
     background: #ECF0F1;
-    font-family: 'ABShaplaBeta', Philosopher, sans-serif;
+    font-family: 'SolaimanLipi', Philosopher, sans-serif;
 }
 
 .title {
@@ -66,6 +66,10 @@ body {
 
 .single:last-child {
     margin-bottom: 2em;
+}
+
+.solaimanlipi {
+    font-family: 'SolaimanLipi';
 }
 
 .charu-chandan {
