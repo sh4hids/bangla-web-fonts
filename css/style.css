@@ -12,6 +12,7 @@
 
 @import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
 @import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
+@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/ekushey-lohit/stylesheet.css');
 @import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/solaimanlipi/stylesheet.css');
 
 h1, h2, h3, h4, h5, h6 {
@@ -33,8 +34,10 @@ body {
     line-height: 1.5em;
     text-align: justify;
     color: #22313F;
-    background: #ECF0F1;
+    background: #ECF0F1;    
     font-family: 'SolaimanLipi', Philosopher, sans-serif;
+    font-weight: normal;
+font-style: normal;
 }
 
 .title {
@@ -54,7 +57,7 @@ body {
 
 .single {
     margin-top: 2em;
-    padding: 2em;
+    padding: 1em 2em 2em 2em;
     -webkit-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.6);
     -moz-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.6);
     box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.6);
@@ -72,16 +75,16 @@ body {
     font-family: 'SolaimanLipi';
 }
 
+.ekushey-lohit {
+    font-family: 'Ekushey Lohit';
+}
+
 .charu-chandan {
     font-family: 'Charu Chandan Unicode';
-    font-weight: normal;
-    font-style: normal;
 }
 
 .charukola {
     font-family: 'Charukola Unicode';
-    font-weight: normal;
-    font-style: normal;
 }
 
 
