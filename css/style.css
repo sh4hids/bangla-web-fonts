@@ -16,6 +16,8 @@
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
 @import url(//fonts.googleapis.com/earlyaccess/notosansbengali.css);
 @import url('https://fonts.googleapis.com/css?family=Atma|Baloo+Da|Fira+Mono|Galada|Hind+Siliguri');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/ab-shapla/stylesheet.css');
+
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
@@ -107,6 +109,10 @@ font-style: normal;
 
 .charukola {
     font-family: 'Charukola Unicode';
+}
+
+.ab-shapla {
+  font-family: 'ABShaplaBeta';
 }
 
 pre code {
