@@ -10,10 +10,12 @@
 
  =============================================*/
 
-@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
-@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
-@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/ekushey-lohit/stylesheet.css');
-@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/ekushey-lohit/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
+@import url(//fonts.googleapis.com/earlyaccess/notosansbengali.css);
+@import url('https://fonts.googleapis.com/css?family=Atma|Baloo+Da|Galada|Hind+Siliguri');
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
@@ -79,8 +81,24 @@ font-style: normal;
     font-family: 'Ekushey Lohit';
 }
 
-.ekushey-durga {
-    font-family: 'Ekushey Durga';
+.noto-sans-bengali {
+  font-family: 'Noto Sans Bengali', sans-serif;
+}
+
+.hind-siliguri {
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.atma {
+  font-family: 'Atma', cursive;
+}
+
+.galada {
+  font-family: 'Galada', cursive;
+}
+
+.baloo-da {
+  font-family: 'Baloo Da', cursive;
 }
 
 .charu-chandan {
@@ -90,7 +108,6 @@ font-style: normal;
 .charukola {
     font-family: 'Charukola Unicode';
 }
-
 
  .footer {
      border-top: 1px dotted #BFBFBF;
