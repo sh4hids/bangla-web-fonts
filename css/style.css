@@ -10,11 +10,10 @@
 
  =============================================*/
 
-@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
-@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
-@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/ekushey-lohit/stylesheet.css');
-@import url('https://raw.githubusercontent.com/musafirshahid/bangla-web-fonts/ekushey-durga/stylesheet.css');
-@import url('https://cdn.rawgit.com/musafirshahid/bangla-web-fonts/solaimanlipi/stylesheet.css');
+@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
+@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
+@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/ekushey-lohit/stylesheet.css');
+@import url('https://raw.githubusercontent.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
