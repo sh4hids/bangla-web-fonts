@@ -13,6 +13,7 @@
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/charukola-reguler-unicode/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/ekushey-lohit/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/sornaly/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/lal-sabuj-normal/stylesheet.css');
 @import url(//fonts.googleapis.com/earlyaccess/notosansbengali.css);
@@ -84,6 +85,11 @@ font-style: normal;
 
 .ekushey-lohit {
     font-family: 'Ekushey Lohit';
+}
+
+.sornaly {
+  font-family: 'Sornaly';
+  font-size: 2rem;
 }
 
 .lal-sabuj {
