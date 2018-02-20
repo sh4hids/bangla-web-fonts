@@ -15,6 +15,7 @@
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/ekushey-lohit/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/sornaly/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/bangla/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/lal-sabuj-normal/stylesheet.css');
 @import url(//fonts.googleapis.com/earlyaccess/notosansbengali.css);
 @import url('https://fonts.googleapis.com/css?family=Atma|Baloo+Da|Fira+Mono|Galada|Hind+Siliguri');
@@ -37,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
     font-size: 18px;
-    line-height: 1.5em;
+    line-height: 3rem;
     text-align: justify;
     color: #22313F;
     background: #ECF0F1;
@@ -81,6 +82,11 @@ font-style: normal;
 
 .solaimanlipi {
     font-family: 'SolaimanLipi';
+}
+
+.bangla {
+    font-family: 'Bangla';
+    font-size: 2.2rem;
 }
 
 .ekushey-lohit {
