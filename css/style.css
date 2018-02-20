@@ -17,6 +17,7 @@
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/solaimanlipi/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/bangla/stylesheet.css');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/lal-sabuj-normal/stylesheet.css');
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/bensen-handwriting/stylesheet.css');
 @import url(//fonts.googleapis.com/earlyaccess/notosansbengali.css);
 @import url('https://fonts.googleapis.com/css?family=Atma|Baloo+Da|Fira+Mono|Galada|Hind+Siliguri');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/ab-shapla/stylesheet.css');
@@ -112,6 +113,10 @@ font-style: normal;
 
 .atma {
   font-family: 'Atma', cursive;
+}
+
+.benSen-handwriting {
+  font-family: 'BenSenHandwriting';
 }
 
 .galada {
