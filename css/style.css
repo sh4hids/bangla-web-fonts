@@ -21,7 +21,7 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosansbengali.css);
 @import url('https://fonts.googleapis.com/css?family=Atma|Baloo+Da|Fira+Mono|Galada|Hind+Siliguri');
 @import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/ab-shapla/stylesheet.css');
-@import  url('https://www.bengalfonts.com/embedfont?family=Durbar::400,400i');
+@import  url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/durbar/stylesheet.css');
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
@@ -121,6 +121,7 @@ font-style: normal;
 
 .durbar {
   font-family: 'Durbar', sans-serif;
+  font-size: 2.2rem;
 }
 
 .galada {
