@@ -116,7 +116,8 @@ body {
   font-family: "Hind Siliguri", sans-serif;
 }
 
-.boshonto {
+.boshonto p,
+.boshonto h2 {
   font-family: "Boshonto", sans-serif;
 }
 
