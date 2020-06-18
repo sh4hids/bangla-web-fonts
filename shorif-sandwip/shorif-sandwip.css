@@ -1,0 +1,7 @@
+@font-face {
+  font-family: shorifsandwip;
+  src: url("https://cdn.statically.io/gh/sh4hids/bangla-web-fonts/03f7d04c53e9fb5121d1ccba8ccfcdaa64c97909/shorif-sandwip/sandwip.woff")
+      format("woff2"),
+    url("https://cdn.statically.io/gh/sh4hids/bangla-web-fonts/03f7d04c53e9fb5121d1ccba8ccfcdaa64c97909/shorif-sandwip/sandwip.woff2")
+      format("woff");
+}
