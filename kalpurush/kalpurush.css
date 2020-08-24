@@ -1,5 +1,7 @@
 @font-face {
   font-family: kalpurush;
-  src: url(../webfont/kalpurush.woff2) format("woff2"),
-    url(../webfont/kalpurush.woff) format("woff");
+  src: url("https://cdn.statically.io/gh/sh4hids/bangla-web-fonts/ed797cb21bd6c4d7748afaefa7d625c234c35d61/kalpurush/kalpurush.woff2")
+      format("woff2"),
+    url("https://cdn.statically.io/gh/sh4hids/bangla-web-fonts/ed797cb21bd6c4d7748afaefa7d625c234c35d61/kalpurush/kalpurush.woff")
+      format("woff");
 }
