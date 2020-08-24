@@ -1,0 +1,5 @@
+@font-face {
+  font-family: kalpurush;
+  src: url(../webfont/kalpurush.woff2) format("woff2"),
+    url(../webfont/kalpurush.woff) format("woff");
+}
